@@ -32,7 +32,7 @@ namespace Webgorav
 
             using (SqlConnection con = new SqlConnection(connectionString))
             {
-                string query = "SELECT AttendanceDate, Status FROM Attendance WHERE StudentId = 11"; // Filter by student
+                string query = "SELECT AttendanceDate, Status FROM Attendance WHERE StudentId = 1"; // Filter by student
 
                 SqlCommand cmd = new SqlCommand(query, con);
                 con.Open();
