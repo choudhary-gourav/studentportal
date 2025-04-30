@@ -1,0 +1,5 @@
+The Student Portal System is a comprehensive web-based platform designed to streamline academic management for students and faculty members. Built using Visual Studio with integrated SQL Server support, the portal facilitates essential academic functions such as course registration, grade tracking, personal information management, and communication between students and instructors.
+
+Key features include secure user authentication, role-based access for students and administrators, real-time updates of academic records, and a responsive interface for an improved user experience. The system also supports efficient database operations for storing and retrieving student data, ensuring data integrity and accessibility.
+
+This project demonstrates practical application of core development principles including layered architecture, CRUD operations with SQL Server, and version control with GitHub integration. It serves as a scalable foundation for institutions looking to digitize academic workflows.
